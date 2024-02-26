@@ -1,0 +1,8 @@
+{
+    "message.abreact": "Bewerk src/App.js en sla het op om opnieuw te laden",
+    "message.reactlink": "Leer React",
+    "message.fname": "Voornaam",
+    "message.lname": "Achternaam",
+    "message.age": "Leeftijd",
+    "message.city": "Stad"
+}
