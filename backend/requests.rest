@@ -1,7 +1,5 @@
 GET http://localhost:8081/posts
-authorization: Bearer
-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiSmFjayIsImlhdCI6MTcwODQzNTc1NH0.NW9O5QgGrBnL9KA7ivstmZB5flbKSsZ8i90KGbW-aTQ
-
+authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiSm9obiIsImlhdCI6MTcxMTQ0NDU4Nn0.9mY2NG2N3ENK19untglGpg8rGxFp7fNq-l8_CoW6X9w
 
 ###
 
@@ -9,5 +7,5 @@ POST http://localhost:8081/login
 Content-Type: application/json
 
 {
-    "username": "Jack"
+    "username": "John"
 }
